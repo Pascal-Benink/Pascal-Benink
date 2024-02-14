@@ -1,6 +1,6 @@
 
 # My Languages/Frameworks/Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,cs,figma,laravel,nextjs,php,react,vscode,wordpress,dotnet,discord,visualstudio,mysql,python,docker,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,cs,figma,laravel,nextjs,php,react,vscode,wordpress,dotnet,discord,visualstudio,mysql,python,docker,ts,md,tailwind,)](https://skillicons.dev)
 
 # Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pascal-Benink&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\
