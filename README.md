@@ -9,4 +9,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pascal-Benink&theme=monokai&hide_border=false)](https://git.io/streak-stats)
 
 # My Github Trophys
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pascal-Benink&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)\
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pascal-Benink&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
