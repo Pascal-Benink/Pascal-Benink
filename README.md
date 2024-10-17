@@ -3,7 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,php,mysql,python,ts,md,cpp)](https://skillicons.dev)
 
 # My Language Variants of
-| My Skill             | Is Based on       |
+| My Language             | Is Based on       |
 |----------------------|-------------------|
 | [![Arduino](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)  | [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)    |
 
