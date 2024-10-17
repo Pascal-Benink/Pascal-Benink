@@ -3,8 +3,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,php,mysql,python,ts,md,cpp)](https://skillicons.dev)
 
 # My Language Variants of
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev):
-[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+| My Skill             | Is Based on       |
+|----------------------|-------------------|
+| [![Arduino](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)  | [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)    |
+
 
 # My Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=laravel,nextjs,react,wordpress,dotnet,tailwind)](https://skillicons.dev)
