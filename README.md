@@ -9,7 +9,10 @@
 
 
 # My Frameworks And Libraries:
-[![My Skills](https://skillicons.dev/icons?i=laravel,nextjs,react,wordpress,dotnet,tailwind,flask,prisma,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,nextjs,react,wordpress,dotnet,tailwind,flask,prisma,threejs,selenium)](https://skillicons.dev)
+
+# My DataBase Hosts
+[![My Skills](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev) And NeonDB
 
 # My Tools:
 [![My Skills](https://skillicons.dev/icons?i=blender,figma,vscode,discord,docker,gmail,github,git,pnpm,pycharm,windows,unity)](https://skillicons.dev)
